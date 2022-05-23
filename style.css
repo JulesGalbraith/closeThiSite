@@ -7,11 +7,20 @@ h1{
   margin-top: 10%;
   font-size: 7em;
   text-align: center;
-  color: whitesmoke;
   font-weight: bolder;
 }
 
-p{
+.close{
+  color: limegreen;
+}
+.poem1{
+  color: whitesmoke;
+}
+
+p{  text-align: center;
+  font-size: 4em;}
+  
+.poemText{
   margin-left: 9%;
   margin-right: 9%;
   text-align: justify;
