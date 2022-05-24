@@ -11,7 +11,7 @@ h1{
 }
 
 .close{
-  color: limegreen;
+  color: palegreen;
 }
 .poem1{
   color: whitesmoke;
@@ -19,7 +19,7 @@ h1{
 
 p{  text-align: center;
   font-size: 4em;}
-  
+
 .poemText{
   margin-left: 9%;
   margin-right: 9%;
