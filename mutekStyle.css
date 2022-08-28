@@ -3,7 +3,7 @@
 body{
     background-image: url('mutekBg.gif');
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
 }
 #container{
     margin: auto;
