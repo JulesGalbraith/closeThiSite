@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Metrophobic&family=Codystar:wght@300;400&family=Cute+Font&family=Padauk:wght@400;700&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background-image: url('mutekBg.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#container{
+    margin: auto;
+    margin-top: 7%;
+    height: 70%;
+    background-color: rgba(10,10,10,0.7);
+    padding: 5%;
+}
+
+#title{
+font-size: 50px;
+font-family: 'Familjen Grotesk', sans-serif;
+line: height 1.2em;
+text-align: center;
+color:azure}
+
+#title2{
+    font-family: 'Familjen Grotesk', sans-serif;
+    text-align: center;
+    color:azure;
+    margin-top: -2%;
+font-weight: 300;}
+    
+#disappearing{
+    display: block;
+    /* background-color: rgba(82, 76, 76, 0.5); */
+font-family:'Cute Font', 'sans-serif';
+    font-size: 50px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom:2%;
+    padding: 2%;
+    border-radius: 5%;
+}
+#generate{
+    display: block;
+    background-color:azure;
+    border-style:outset;
+    border-color: rgb(51, 59, 69);
+    border-width: 5px;
+    margin: auto;
+    padding: 1%;
+     font-family: 'Familjen Grotesk', sans-serif;
+     font-weight: 700;
+border-radius: 5px;}
