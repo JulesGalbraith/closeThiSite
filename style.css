@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 body{
@@ -53,4 +54,55 @@ font-size: 40px;}
   .poemPara {
     font-size: 20px;
   }
+=======
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body{
+font-family: sans-serif;
+background-color: rgb(30,30,30);}
+h1{
+  margin-top: 10%;
+  font-size: 7em;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.close{
+  color: palegreen;
+}
+.poem1{
+  color: whitesmoke;
+}
+
+p{  text-align: center;
+  font-size: 4em;}
+
+.poemText{
+  margin-left: 9%;
+  margin-right: 9%;
+  text-align: justify;
+  font-size: 4em;
+  color: whitesmoke;
+}
+
+#poemFormatted{
+width:40%;
+margin-left: 30%;
+  font-size: 50px;
+}
+
+
+.poemPara{
+  text-align: left;
+font-family:'Times New Roman', Times, serif;
+color: rgb(180, 180, 180);
+margin-left: 5%;;
+font-size: 40px;}
+
+.poem {
+  color: rgb(70, 70, 70);
+  margin-left: 7%;
+  font-size: 55px;
+
+>>>>>>> ace47982c371fe37662f51691b8962c9b067dd0f
 }
