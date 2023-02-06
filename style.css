@@ -35,13 +35,22 @@ margin-left: 30%;
 }
 
 
-pre{
+.poemPara{
+  text-align: left;
 font-family:'Times New Roman', Times, serif;
 color: rgb(180, 180, 180);
 margin-left: 5%;;
 font-size: 40px;}
 
-#poem {
-  color: rgb(50, 50, 50);
+.poem {
+  color: rgb(70, 70, 70);
+  margin-left: 7%;
+  font-size: 55px;
 
+}
+
+@media screen and (max-width: 800px) {
+  .poemPara {
+    font-size: 20px;
+  }
 }
