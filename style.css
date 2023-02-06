@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 body{
 font-family: sans-serif;
 background-color: rgb(30,30,30);}
+
 h1{
   margin-top: 10%;
   font-size: 7em;
@@ -103,6 +103,3 @@ font-size: 40px;}
   color: rgb(70, 70, 70);
   margin-left: 7%;
   font-size: 55px;
-
->>>>>>> ace47982c371fe37662f51691b8962c9b067dd0f
-}
