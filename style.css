@@ -41,7 +41,9 @@ color: rgb(180, 180, 180);
 margin-left: 5%;;
 font-size: 40px;}
 
-#poem {
-  color: rgb(50, 50, 50);
+.poem {
+  color: rgb(70, 70, 70);
+  margin-left: 7%;
+  font-size: 50px;
 
 }
