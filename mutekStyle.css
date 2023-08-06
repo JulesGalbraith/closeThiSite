@@ -6,11 +6,14 @@ body{
     /* background-repeat: no-repeat; */
 }
 #container{
-    margin: auto;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-top: 7%;
     height: 70%;
     background-color: rgba(10,10,10,0.7);
-    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    border-radius: 30px;
 }
 
 #title{
@@ -50,4 +53,5 @@ font-family:'Cute Font', 'sans-serif';
     padding: 1%;
      font-family: 'Familjen Grotesk', sans-serif;
      font-weight: 700;
-border-radius: 5px;}
+     font-size: 3rem;
+border-radius: 10px;}
