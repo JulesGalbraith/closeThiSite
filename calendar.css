@@ -72,6 +72,8 @@ img:hover{
     h1{
         text-align: center;
         font-size: 12vw;
+        text-shadow: 1px 1px firebrick;
+
     }
 
     h2{
