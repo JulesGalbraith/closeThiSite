@@ -3,7 +3,6 @@ body{
     display:flex;
     justify-content: space-around;
     padding: 0;
-    vertical-align: baseline;
 }
 
 
@@ -63,3 +62,11 @@ img:hover{
     box-shadow: 0 0 5px 5px tomato;
     width:12vw;
 }
+
+
+@media (max-width: 900px) {
+    body{
+    display:block;
+    }
+  }
+  
