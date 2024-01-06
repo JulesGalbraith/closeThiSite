@@ -40,6 +40,10 @@ p{
     text-align: justify;
 }
 
+#instructions{
+    text-align: center;
+}
+
 #body-copy{
     margin-left:10%;
     margin-right:10%;
