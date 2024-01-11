@@ -1,0 +1,172 @@
+body{
+    font-family:sans-serif;
+}
+#calendar-body{
+    display:flex;
+    justify-content: space-around;
+    padding: 0;
+}
+
+#titles{
+    padding:0;
+}
+
+h1, h2, h3{
+    margin-left:5%;
+    margin-right:5%;
+}
+
+h1{
+    line-height: 90%;
+    margin-top:1%;
+    margin-bottom:1%;
+    font-size:6vw;
+    color: tomato;
+    text-shadow: 3px 3px firebrick;
+}
+h2{
+    font-size:3vw;
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px gold;
+
+}
+h3{
+margin-top:7%;
+padding:3px;
+font-size:2vw;
+
+    text-align: center;
+    background-color: rgb(57, 234, 57);
+    color:white;
+}
+p{
+    text-align: justify;
+}
+
+#instructions{
+    text-align: center;
+}
+
+#text-hilite-1{
+    background-color:aqua;
+    padding:2px;
+}
+
+#text-hilite-2{
+    background-color: yellow;
+}
+#text-hilite-3{
+    background-color: magenta;
+    padding: 2px;
+}
+
+#body-copy{
+  margin-left:7%;
+  margin-right:3%;
+    font-size:1.5vw;
+}
+
+#preview-imgs{
+    display:flex;
+    padding:5%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.preview-thumb{
+    box-shadow: 0 0 0px 5px plum;
+    width:10vw;
+    margin-bottom:5vh;
+}
+
+.preview-thumb:hover:hover{
+    box-shadow: 0 0 5px 5px tomato;
+}
+
+#div-gif{
+    display: flex;
+   justify-content: center;
+}
+
+@media (max-width: 900px) {
+    #calendar-body{
+    display:block;
+    }
+    h1{
+        text-align: center;
+        font-size: 12vw;
+        text-shadow: 2px 2px firebrick;
+
+    }
+
+    h2{
+    font-size:8vw;
+    text-shadow: 2px 2px gold;
+
+}
+
+h3{
+    font-size:6vw;
+}
+.preview-thumb{
+    box-shadow: 0 0 0px 5px plum;
+    width:25vw;
+    margin-bottom:5vh;
+}
+.preview-thumb:hover{
+    box-shadow: 0 0 5px 5px tomato;
+}
+p{
+    font-size: 4vw;
+}
+#body-copy{
+    margin-left:3%;
+    margin-right:3%;
+
+}
+  }
+  
+
+#order-links{
+    margin:5%;
+    font-size: 1.5em;
+    font-weight:bold;
+}
+  /* ORDER PAGES */
+
+  #order-page-body{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  #order-page-header{
+    margin-top: 1%;
+    background-color:blueviolet;
+  }
+
+  #order-instructions-wrapper{
+    margin-left:15%;
+    margin-right:15%;    
+  }
+  #order-page-instructions{
+    text-align:center;
+    font-size:2em;
+  }
+
+  #hilite-4{
+    background-color:orangered;
+  }
+
+  #hilite-5{
+    background-color:rgb(255, 252, 105);
+  }
+
+  #hilite-6{
+    background-color:rgb(0, 255, 60);
+  }
+
+  #thank-you{
+    margin-top:5%;
+  }
