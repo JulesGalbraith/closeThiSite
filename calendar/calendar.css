@@ -45,6 +45,14 @@ p{
     /* text-align: justify; */
 }
 
+#link1, #link1:visited{
+color: rgb(9, 87, 196)}
+#link2, #link2:visited{
+color: rgb(232, 44, 44);}
+#link3, #link3:visited{
+color: rgb(191, 69, 231)}
+
+
 #instructions{
     text-align: center;
 }
