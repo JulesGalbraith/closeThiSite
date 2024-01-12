@@ -75,13 +75,13 @@ p{
     flex-wrap: wrap;
 }
 .preview-thumb{
-    box-shadow: 0 0 0px 5px plum;
+    box-shadow: 0 0 0px 5px navy;
     width:10vw;
     margin-bottom:5vh;
 }
 
-.preview-thumb:hover:hover{
-    box-shadow: 0 0 5px 5px tomato;
+.preview-thumb:hover{
+    box-shadow: 0 0 5px 5px rgb(81, 183, 255);
 }
 
 #div-gif{
@@ -114,9 +114,7 @@ h3{
     width:25vw;
     margin-bottom:5vh;
 }
-.preview-thumb:hover{
-    box-shadow: 0 0 5px 5px tomato;
-}
+
 p{
     font-size: 4vw;
 }
