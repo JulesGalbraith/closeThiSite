@@ -66,8 +66,9 @@ color: rgb(191, 69, 231)}
     background-color: yellow;
 }
 #text-hilite-3{
-    background-color: magenta;
+    background-color: rgb(255, 107, 38);
     padding: 2px;
+    color:white;
 }
 
 #body-copy{
